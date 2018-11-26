@@ -5,4 +5,8 @@ public class hello {
         System.out.println("hello tangye");
         System.out.println("hello daimin");
     }
+    public void test(){
+        int i = 0;
+        i+=10;
+    }
 }
